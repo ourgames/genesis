@@ -1,0 +1,1343 @@
+{
+  "ID": "3963cced-a277-4eb6-9ecb-9fd31d4bbfb3",
+  "Version": "3.10.0.0",
+  "Name": "layer_ui_city",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 13,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bg_top.png",
+              "Plist": "res/pic/ui/city.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 376.4998,
+              "Y": 1290.4985
+            },
+            "Scale": {
+              "ScaleX": 1.17,
+              "ScaleY": 1.17
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.502,
+              "Y": 0.9674
+            },
+            "PreSize": {
+              "X": 0.8533,
+              "Y": 0.0547
+            },
+            "LeftMargin": 56.4998,
+            "RightMargin": 53.5002,
+            "TopMargin": 7.0015,
+            "BottomMargin": 1253.9985,
+            "Tag": 29,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "res/csd/ui/hero_portrait.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 43.5003,
+                  "Y": 16.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.068,
+                  "Y": 0.2192
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 43.5003,
+                "RightMargin": 596.4998,
+                "TopMargin": 56.9999,
+                "BottomMargin": 16.0001,
+                "Tag": 46,
+                "ActionTag": -1264084873,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "hero",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_gold_shop.png",
+                  "Plist": "res/pic/unit/function.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 593.9586,
+                  "Y": 21.0257
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9281,
+                  "Y": 0.288
+                },
+                "PreSize": {
+                  "X": 0.1406,
+                  "Y": 1.4521
+                },
+                "LeftMargin": 548.9586,
+                "RightMargin": 1.0414,
+                "TopMargin": -1.0257,
+                "BottomMargin": -31.9743,
+                "Tag": 30,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "LabelText": "10.9K",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 43.171,
+                      "Y": 30.3191
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4797,
+                      "Y": 0.286
+                    },
+                    "PreSize": {
+                      "X": 0.4111,
+                      "Y": 0.1887
+                    },
+                    "LeftMargin": 24.671,
+                    "RightMargin": 28.329,
+                    "TopMargin": 65.6809,
+                    "BottomMargin": 20.3191,
+                    "Tag": 32,
+                    "ActionTag": -876906581,
+                    "Size": {
+                      "X": 37.0,
+                      "Y": 20.0
+                    },
+                    "Name": "label_gold",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -170267094,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 106.0
+                },
+                "Name": "btn_gold_shop",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "200",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 495.1154,
+                  "Y": 46.4478
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7736,
+                  "Y": 0.6363
+                },
+                "PreSize": {
+                  "X": 0.0375,
+                  "Y": 0.274
+                },
+                "LeftMargin": 483.1154,
+                "RightMargin": 132.8846,
+                "TopMargin": 16.5522,
+                "BottomMargin": 36.4478,
+                "Tag": 44,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_resource_stone.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -20.4259,
+                      "Y": 10.3312
+                    },
+                    "Scale": {
+                      "ScaleX": 0.45,
+                      "ScaleY": 0.45
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.8511,
+                      "Y": 0.5166
+                    },
+                    "PreSize": {
+                      "X": 2.0833,
+                      "Y": 2.5
+                    },
+                    "LeftMargin": -45.4259,
+                    "RightMargin": 19.4259,
+                    "TopMargin": -15.3312,
+                    "BottomMargin": -14.6688,
+                    "Tag": 40,
+                    "ActionTag": 673962209,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 50.0
+                    },
+                    "Name": "icon_resource_iron",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -878136857,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 20.0
+                },
+                "Name": "label_resource_iron",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "4800",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.9543,
+                  "Y": 46.4482
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5984,
+                  "Y": 0.6363
+                },
+                "PreSize": {
+                  "X": 0.05,
+                  "Y": 0.274
+                },
+                "LeftMargin": 366.9543,
+                "RightMargin": 241.0457,
+                "TopMargin": 16.5518,
+                "BottomMargin": 36.4482,
+                "Tag": 43,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_resource_iron.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -20.4274,
+                      "Y": 10.3317
+                    },
+                    "Scale": {
+                      "ScaleX": 0.92,
+                      "ScaleY": 0.92
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.6384,
+                      "Y": 0.5166
+                    },
+                    "PreSize": {
+                      "X": 1.3438,
+                      "Y": 1.95
+                    },
+                    "LeftMargin": -41.9274,
+                    "RightMargin": 30.9274,
+                    "TopMargin": -9.8317,
+                    "BottomMargin": -9.1683,
+                    "Tag": 35,
+                    "ActionTag": -316515519,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 39.0
+                    },
+                    "Name": "icon_resource_stone",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -754559505,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 20.0
+                },
+                "Name": "label_resource_stone",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "23.0K",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 268.2844,
+                  "Y": 46.4482
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4192,
+                  "Y": 0.6363
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.274
+                },
+                "LeftMargin": 249.7844,
+                "RightMargin": 353.2156,
+                "TopMargin": 16.5518,
+                "BottomMargin": 36.4482,
+                "Tag": 42,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_resource_wood.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -20.4285,
+                      "Y": 10.3317
+                    },
+                    "Scale": {
+                      "ScaleX": 0.92,
+                      "ScaleY": 0.92
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.5521,
+                      "Y": 0.5166
+                    },
+                    "PreSize": {
+                      "X": 1.1622,
+                      "Y": 1.95
+                    },
+                    "LeftMargin": -41.9285,
+                    "RightMargin": 35.9285,
+                    "TopMargin": -9.8317,
+                    "BottomMargin": -9.1683,
+                    "Tag": 38,
+                    "ActionTag": 1383800067,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 39.0
+                    },
+                    "Name": "icon_resource_wood",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1506005634,
+                "Size": {
+                  "X": 37.0,
+                  "Y": 20.0
+                },
+                "Name": "label_resource_wood",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "19.7K",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 142.1975,
+                  "Y": 46.4482
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2222,
+                  "Y": 0.6363
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.274
+                },
+                "LeftMargin": 123.6975,
+                "RightMargin": 479.3025,
+                "TopMargin": 16.5518,
+                "BottomMargin": 36.4482,
+                "Tag": 41,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_resource_food.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -20.426,
+                      "Y": 10.3323
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.5521,
+                      "Y": 0.5166
+                    },
+                    "PreSize": {
+                      "X": 1.1622,
+                      "Y": 1.95
+                    },
+                    "LeftMargin": -41.926,
+                    "RightMargin": 35.926,
+                    "TopMargin": -9.8323,
+                    "BottomMargin": -9.1677,
+                    "Tag": 34,
+                    "ActionTag": 1922414770,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 39.0
+                    },
+                    "Name": "icon_resource_food",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1343955764,
+                "Size": {
+                  "X": 37.0,
+                  "Y": 20.0
+                },
+                "Name": "label_resource_food",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "res/csd/ui/building_queue.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 44.7437,
+                  "Y": -111.1113
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0699,
+                  "Y": -1.5221
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 44.7437,
+                "RightMargin": 595.2563,
+                "TopMargin": 184.1113,
+                "BottomMargin": -111.1113,
+                "Tag": 54,
+                "ActionTag": -1874405645,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "building_queue_1",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": -263362403,
+            "Size": {
+              "X": 640.0,
+              "Y": 73.0
+            },
+            "Name": "bg_top",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bg_bottom.png",
+              "Plist": "res/pic/ui/city.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 374.1326,
+              "Y": 80.4415
+            },
+            "Scale": {
+              "ScaleX": 1.17,
+              "ScaleY": 1.17
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4988,
+              "Y": 0.0603
+            },
+            "PreSize": {
+              "X": 0.8533,
+              "Y": 0.1079
+            },
+            "LeftMargin": 54.1326,
+            "RightMargin": 55.8674,
+            "TopMargin": 1181.5585,
+            "BottomMargin": 8.4415,
+            "Tag": 35,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_minimap.png",
+                  "Plist": "res/pic/unit/function.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.0005,
+                  "Y": 49.8198
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0844,
+                  "Y": 0.346
+                },
+                "PreSize": {
+                  "X": 0.1437,
+                  "Y": 0.5278
+                },
+                "LeftMargin": 8.0005,
+                "RightMargin": 539.9995,
+                "TopMargin": 56.1802,
+                "BottomMargin": 11.8198,
+                "Tag": 53,
+                "ActionTag": -15504109,
+                "Size": {
+                  "X": 92.0,
+                  "Y": 76.0
+                },
+                "Name": "btn_minimap",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_alliance.png",
+                  "Plist": "res/pic/unit/function.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 569.6726,
+                  "Y": 50.6977
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8901,
+                  "Y": 0.3521
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 529.6726,
+                "RightMargin": 30.3274,
+                "TopMargin": 53.3023,
+                "BottomMargin": 10.6977,
+                "Tag": 47,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_tip_green.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 68.6221,
+                      "Y": 59.7674
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8578,
+                      "Y": 0.7471
+                    },
+                    "PreSize": {
+                      "X": 0.475,
+                      "Y": 0.475
+                    },
+                    "LeftMargin": 49.6221,
+                    "RightMargin": -7.6221,
+                    "TopMargin": 1.2326,
+                    "BottomMargin": 40.7674,
+                    "Tag": 48,
+                    "ActionTag": 515227418,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 38.0
+                    },
+                    "Name": "icon_tip_alliance",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1747899395,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_alliance",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_inventory.png",
+                  "Plist": "res/pic/unit/function.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 304.3856,
+                  "Y": 50.6977
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4756,
+                  "Y": 0.3521
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 264.3856,
+                "RightMargin": 295.6144,
+                "TopMargin": 53.3023,
+                "BottomMargin": 10.6977,
+                "Tag": 48,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_tip_green.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 68.6231,
+                      "Y": 59.7674
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8578,
+                      "Y": 0.7471
+                    },
+                    "PreSize": {
+                      "X": 0.475,
+                      "Y": 0.475
+                    },
+                    "LeftMargin": 49.6231,
+                    "RightMargin": -7.6231,
+                    "TopMargin": 1.2326,
+                    "BottomMargin": 40.7674,
+                    "Tag": 46,
+                    "ActionTag": -1845104602,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 38.0
+                    },
+                    "Name": "icon_tip_inventory",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 909799163,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_inventory",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_mail.png",
+                  "Plist": "res/pic/unit/function.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 438.1601,
+                  "Y": 50.6977
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6846,
+                  "Y": 0.3521
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 398.1601,
+                "RightMargin": 161.8399,
+                "TopMargin": 53.3023,
+                "BottomMargin": 10.6977,
+                "Tag": 49,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_tip_green.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 68.6221,
+                      "Y": 59.7674
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8578,
+                      "Y": 0.7471
+                    },
+                    "PreSize": {
+                      "X": 0.475,
+                      "Y": 0.475
+                    },
+                    "LeftMargin": 49.6221,
+                    "RightMargin": -7.6221,
+                    "TopMargin": 1.2326,
+                    "BottomMargin": 40.7674,
+                    "Tag": 47,
+                    "ActionTag": 547408424,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 38.0
+                    },
+                    "Name": "icon_tip_mail",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 782021435,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_mail",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_quest.png",
+                  "Plist": "res/pic/unit/function.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.4501,
+                  "Y": 50.6977
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2695,
+                  "Y": 0.3521
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 132.4501,
+                "RightMargin": 427.5499,
+                "TopMargin": 53.3023,
+                "BottomMargin": 10.6977,
+                "Tag": 50,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_tip_green.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 68.622,
+                      "Y": 59.7674
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8578,
+                      "Y": 0.7471
+                    },
+                    "PreSize": {
+                      "X": 0.475,
+                      "Y": 0.475
+                    },
+                    "LeftMargin": 49.622,
+                    "RightMargin": -7.622,
+                    "TopMargin": 1.2326,
+                    "BottomMargin": 40.7674,
+                    "Tag": 45,
+                    "ActionTag": -219569356,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 38.0
+                    },
+                    "Name": "icon_tip_quest",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1861989818,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_quest",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "icon_chat.png",
+                  "Plist": "res/pic/common/icon.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 598.4425,
+                  "Y": 112.4858
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9351,
+                  "Y": 0.7812
+                },
+                "PreSize": {
+                  "X": 0.0672,
+                  "Y": 0.2847
+                },
+                "LeftMargin": 576.9425,
+                "RightMargin": 20.0575,
+                "TopMargin": 11.0142,
+                "BottomMargin": 91.9858,
+                "Tag": 52,
+                "ActionTag": -1991883374,
+                "Size": {
+                  "X": 43.0,
+                  "Y": 41.0
+                },
+                "Name": "icon_chat",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "button_round.png",
+                  "Plist": "res/pic/common/control.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 51.1054,
+                  "Y": 206.9292
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0799,
+                  "Y": 1.437
+                },
+                "PreSize": {
+                  "X": 0.1563,
+                  "Y": 0.6944
+                },
+                "LeftMargin": 1.1054,
+                "RightMargin": 538.8946,
+                "TopMargin": -112.9292,
+                "BottomMargin": 156.9292,
+                "Tag": 38,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_favorite.png",
+                      "Plist": "res/pic/unit/function.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.3914,
+                      "Y": 58.4305
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4639,
+                      "Y": 0.5843
+                    },
+                    "PreSize": {
+                      "X": 0.94,
+                      "Y": 0.94
+                    },
+                    "LeftMargin": -0.6086,
+                    "RightMargin": 6.6086,
+                    "TopMargin": -5.4305,
+                    "BottomMargin": 11.4305,
+                    "Tag": 55,
+                    "ActionTag": 329714755,
+                    "Size": {
+                      "X": 94.0,
+                      "Y": 94.0
+                    },
+                    "Name": "btn_favorite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_tip_red.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.6501,
+                      "Y": 75.5248
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8065,
+                      "Y": 0.7552
+                    },
+                    "PreSize": {
+                      "X": 0.23,
+                      "Y": 0.23
+                    },
+                    "LeftMargin": 69.1501,
+                    "RightMargin": 7.8499,
+                    "TopMargin": 12.9752,
+                    "BottomMargin": 64.0248,
+                    "Tag": 56,
+                    "ActionTag": -1229467807,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 23.0
+                    },
+                    "Name": "icon_tip_red",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -502221817,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "button_round",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_skill.png",
+                  "Plist": "res/pic/unit/function.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 578.3273,
+                  "Y": 200.7425
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9036,
+                  "Y": 1.394
+                },
+                "PreSize": {
+                  "X": 0.2062,
+                  "Y": 0.9167
+                },
+                "LeftMargin": 512.3273,
+                "RightMargin": -4.3273,
+                "TopMargin": -122.7425,
+                "BottomMargin": 134.7425,
+                "Tag": 54,
+                "ActionTag": 858782590,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 132.0
+                },
+                "Name": "btn_skill",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 571659395,
+            "Size": {
+              "X": 640.0,
+              "Y": 144.0
+            },
+            "Name": "bg_bottom",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../pic/common/control.plist",
+        "../../pic/common/control.png",
+        "../../pic/common/icon.plist",
+        "../../pic/common/icon.png",
+        "../../pic/ui/city.plist",
+        "../../pic/ui/city.png",
+        "../../pic/unit/function.plist",
+        "../../pic/unit/function.png",
+        "building_queue.json",
+        "hero_portrait.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

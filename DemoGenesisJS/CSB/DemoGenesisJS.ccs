@@ -1,0 +1,242 @@
+<Solution>
+  <PropertyGroup Name="DemoGenesisJS" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="res">
+          <Folder Name="csd">
+            <Folder Name="building">
+              <Folder Name="ui">
+                <Project Name="building_button.csd" Type="Node" />
+                <Project Name="building_balloon_button.csd" Type="Node" />
+                <Project Name="building_menu.csd" Type="Node" />
+              </Folder>
+              <Project Name="building_barracks_1.csd" Type="Node" />
+              <Project Name="building_city_hall_1.csd" Type="Node" />
+              <Project Name="building_range_1.csd" Type="Node" />
+              <Project Name="building_stable_1.csd" Type="Node" />
+              <Project Name="building_workshop_1.csd" Type="Node" />
+            </Folder>
+            <Folder Name="dialog">
+              <Folder Name="building">
+                <Project Name="dialog_building_upgrade.csd" Type="Layer" />
+                <Project Name="dialog_building_upgrade_new_feature.csd" Type="Node" />
+                <Project Name="dialog_building_upgrade_new_value.csd" Type="Node" />
+              </Folder>
+            </Folder>
+            <Folder Name="prompt">
+              <Project Name="prompt_instant_tip.csd" Type="Node" />
+            </Folder>
+            <Folder Name="scene">
+              <Project Name="layer_test.csd" Type="Layer" />
+              <Project Name="layer_title.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="test">
+              <Project Name="layer_grammar.csd" Type="Layer" />
+              <Project Name="layer_js_binding.csd" Type="Layer" />
+              <Project Name="layer_touch.csd" Type="Layer" />
+              <Project Name="layer_viewport.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="ui">
+              <Project Name="building_queue.csd" Type="Node" />
+              <Project Name="hero_portrait.csd" Type="Node" />
+              <Project Name="layer_ui_city.csd" Type="Layer" />
+              <Project Name="layer_ui_dialog.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="view">
+              <Project Name="layer_view_city.csd" Type="Layer" />
+              <Project Name="layer_view_city_upper.csd" Type="Layer" />
+            </Folder>
+          </Folder>
+          <Folder Name="particle">
+            <Folder Name="building">
+              <PlistParticleFile Name="build_upgrade_done.plist" />
+              <Image Name="Effect_0045.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="pic">
+            <Folder Name="building">
+              <PlistImageFolder Image="looking.png" PListFile="looking.plist" Name=".looking_PList.Dir">
+                <PlistImageFile Name="build_Tavern.png" Key="build_Tavern.png" />
+                <PlistImageFile Name="building_army_archer.png" Key="building_army_archer.png" />
+                <PlistImageFile Name="building_army_knight.png" Key="building_army_knight.png" />
+                <PlistImageFile Name="building_army_soldier.png" Key="building_army_soldier.png" />
+                <PlistImageFile Name="building_army_vehicle.png" Key="building_army_vehicle.png" />
+                <PlistImageFile Name="building_city_hall.png" Key="building_city_hall.png" />
+                <PlistImageFile Name="building_college.png" Key="building_college.png" />
+                <PlistImageFile Name="building_embassy.png" Key="building_embassy.png" />
+                <PlistImageFile Name="building_gate_01.png" Key="building_gate_01.png" />
+                <PlistImageFile Name="building_gate_02.png" Key="building_gate_02.png" />
+                <PlistImageFile Name="building_gate_03.png" Key="building_gate_03.png" />
+                <PlistImageFile Name="building_gate_04.png" Key="building_gate_04.png" />
+                <PlistImageFile Name="building_gate_05.png" Key="building_gate_05.png" />
+                <PlistImageFile Name="building_gate_06.png" Key="building_gate_06.png" />
+                <PlistImageFile Name="building_gate_07.png" Key="building_gate_07.png" />
+                <PlistImageFile Name="building_market.png" Key="building_market.png" />
+                <PlistImageFile Name="building_resource_food.png" Key="building_resource_food.png" />
+                <PlistImageFile Name="building_resource_iron.png" Key="building_resource_iron.png" />
+                <PlistImageFile Name="building_resource_stone.png" Key="building_resource_stone.png" />
+                <PlistImageFile Name="building_resource_wood.png" Key="building_resource_wood.png" />
+                <PlistImageFile Name="building_warehouse.png" Key="building_warehouse.png" />
+                <PlistImageFile Name="cd_1.png" Key="cd_1.png" />
+                <PlistImageFile Name="cd_2.png" Key="cd_2.png" />
+                <PlistImageFile Name="cd_3.png" Key="cd_3.png" />
+                <PlistImageFile Name="cl_2_1.png" Key="cl_2_1.png" />
+                <PlistImageFile Name="cq_1.png" Key="cq_1.png" />
+                <PlistImageFile Name="cq_2_1.png" Key="cq_2_1.png" />
+                <PlistImageFile Name="cq_2_5.png" Key="cq_2_5.png" />
+                <PlistImageFile Name="cq_2_9.png" Key="cq_2_9.png" />
+                <PlistImageFile Name="cq_4.png" Key="cq_4.png" />
+                <PlistImageFile Name="cq_cl_1.png" Key="cq_cl_1.png" />
+                <PlistImageFile Name="dragonBattleEnter.png" Key="dragonBattleEnter.png" />
+                <PlistImageFile Name="drum_1.png" Key="drum_1.png" />
+                <PlistImageFile Name="fence_1.png" Key="fence_1.png" />
+                <PlistImageFile Name="fence_2.png" Key="fence_2.png" />
+                <PlistImageFile Name="house_1.png" Key="house_1.png" />
+                <PlistImageFile Name="pic_ziyuan_men.png" Key="pic_ziyuan_men.png" />
+                <PlistImageFile Name="pic407000_2.png" Key="pic407000_2.png" />
+                <PlistImageFile Name="pic409000_2.png" Key="pic409000_2.png" />
+                <PlistImageFile Name="pic416000_2.png" Key="pic416000_2.png" />
+                <PlistImageFile Name="pic418000_1_2.png" Key="pic418000_1_2.png" />
+                <PlistImageFile Name="pic418000_2_2.png" Key="pic418000_2_2.png" />
+                <PlistImageFile Name="pic418000_3_2.png" Key="pic418000_3_2.png" />
+                <PlistImageFile Name="pic418000_4_2.png" Key="pic418000_4_2.png" />
+                <PlistImageFile Name="pic418000_5_2.png" Key="pic418000_5_2.png" />
+                <PlistImageFile Name="pic429000_2.png" Key="pic429000_2.png" />
+                <PlistImageFile Name="sanjichengduo1.png" Key="sanjichengduo1.png" />
+                <PlistImageFile Name="sanjichengqiang1.png" Key="sanjichengqiang1.png" />
+                <PlistImageFile Name="sanjichengqiang10.png" Key="sanjichengqiang10.png" />
+                <PlistImageFile Name="sanjijiantachengduo1.png" Key="sanjijiantachengduo1.png" />
+                <PlistImageFile Name="sijichengduo1.png" Key="sijichengduo1.png" />
+                <PlistImageFile Name="sijichengqiang1.png" Key="sijichengqiang1.png" />
+                <PlistImageFile Name="sijichengqiang5.png" Key="sijichengqiang5.png" />
+                <PlistImageFile Name="sijichengqiang6.png" Key="sijichengqiang6.png" />
+                <PlistImageFile Name="sijijiantaduo1.png" Key="sijijiantaduo1.png" />
+                <PlistImageFile Name="wall_01.png" Key="wall_01.png" />
+                <PlistImageFile Name="wall_02.png" Key="wall_02.png" />
+                <PlistImageFile Name="wall_03.png" Key="wall_03.png" />
+                <PlistImageFile Name="wall_04.png" Key="wall_04.png" />
+                <PlistImageFile Name="wall_05.png" Key="wall_05.png" />
+                <PlistImageFile Name="wall_06.png" Key="wall_06.png" />
+                <PlistImageFile Name="wall_07.png" Key="wall_07.png" />
+                <PlistImageFile Name="wall_08.png" Key="wall_08.png" />
+                <PlistImageFile Name="wall_09.png" Key="wall_09.png" />
+                <PlistImageFile Name="wall_10.png" Key="wall_10.png" />
+                <PlistImageFile Name="wall_11.png" Key="wall_11.png" />
+                <PlistImageFile Name="wall_12.png" Key="wall_12.png" />
+                <PlistImageFile Name="wall_13.png" Key="wall_13.png" />
+                <PlistImageFile Name="wall_14.png" Key="wall_14.png" />
+                <PlistImageFile Name="wall_notice1.png" Key="wall_notice1.png" />
+                <PlistImageFile Name="wall_notice2.png" Key="wall_notice2.png" />
+                <PlistImageFile Name="wujichengduo1.png" Key="wujichengduo1.png" />
+                <PlistImageFile Name="wujichengqiang1.png" Key="wujichengqiang1.png" />
+                <PlistImageFile Name="wujichengqiang2.png" Key="wujichengqiang2.png" />
+                <PlistImageFile Name="wujichengqiang5.png" Key="wujichengqiang5.png" />
+                <PlistImageFile Name="wujijiataduo.png" Key="wujijiataduo.png" />
+              </PlistImageFolder>
+              <PlistImageFolder Image="ui.png" PListFile="ui.plist" Name=".ui_PList.Dir">
+                <PlistImageFile Name="building_buttons_bg.png" Key="building_buttons_bg.png" />
+                <PlistImageFile Name="building_buttons_button.png" Key="building_buttons_button.png" />
+                <PlistImageFile Name="building_buttons_icon_info.png" Key="building_buttons_icon_info.png" />
+                <PlistImageFile Name="building_buttons_icon_upgrade.png" Key="building_buttons_icon_upgrade.png" />
+                <PlistImageFile Name="building_buttons_title.png" Key="building_buttons_title.png" />
+                <PlistImageFile Name="building_float_button.png" Key="building_float_button.png" />
+                <PlistImageFile Name="building_progressbar_bg.png" Key="building_progressbar_bg.png" />
+                <PlistImageFile Name="building_progressbar_fill1.png" Key="building_progressbar_fill1.png" />
+                <PlistImageFile Name="building_progressbar_fill2.png" Key="building_progressbar_fill2.png" />
+                <PlistImageFile Name="building_progressbar_icon.png" Key="building_progressbar_icon.png" />
+              </PlistImageFolder>
+            </Folder>
+            <Folder Name="common">
+              <PlistImageFolder Image="control.png" PListFile="control.plist" Name=".control_PList.Dir">
+                <PlistImageFile Name="button_arrow_left.png" Key="button_arrow_left.png" />
+                <PlistImageFile Name="button_gold.png" Key="button_gold.png" />
+                <PlistImageFile Name="button_normal.png" Key="button_normal.png" />
+                <PlistImageFile Name="button_round.png" Key="button_round.png" />
+                <PlistImageFile Name="gradient_bg_1ends.png" Key="gradient_bg_1ends.png" />
+                <PlistImageFile Name="gradient_bg_2ends.png" Key="gradient_bg_2ends.png" />
+                <PlistImageFile Name="gradient_bg_2ends_with_border.png" Key="gradient_bg_2ends_with_border.png" />
+              </PlistImageFolder>
+              <PlistImageFolder Image="icon.png" PListFile="icon.plist" Name=".icon_PList.Dir">
+                <PlistImageFile Name="icon_chat.png" Key="icon_chat.png" />
+                <PlistImageFile Name="icon_complete.png" Key="icon_complete.png" />
+                <PlistImageFile Name="icon_hourglass.png" Key="icon_hourglass.png" />
+                <PlistImageFile Name="icon_resource_coin.png" Key="icon_resource_coin.png" />
+                <PlistImageFile Name="icon_resource_food.png" Key="icon_resource_food.png" />
+                <PlistImageFile Name="icon_resource_gold.png" Key="icon_resource_gold.png" />
+                <PlistImageFile Name="icon_resource_iron.png" Key="icon_resource_iron.png" />
+                <PlistImageFile Name="icon_resource_steel.png" Key="icon_resource_steel.png" />
+                <PlistImageFile Name="icon_resource_stone.png" Key="icon_resource_stone.png" />
+                <PlistImageFile Name="icon_resource_wood.png" Key="icon_resource_wood.png" />
+                <PlistImageFile Name="icon_tip_green.png" Key="icon_tip_green.png" />
+                <PlistImageFile Name="icon_tip_red.png" Key="icon_tip_red.png" />
+                <PlistImageFile Name="icon_white.png" Key="icon_white.png" />
+              </PlistImageFolder>
+            </Folder>
+            <Folder Name="dialog">
+              <PlistImageFolder Image="building_1.png" PListFile="building_1.plist" Name=".building_1_PList.Dir">
+                <PlistImageFile Name="dialog_building_flag.png" Key="dialog_building_flag.png" />
+                <PlistImageFile Name="dialog_building_panel_body.png" Key="dialog_building_panel_body.png" />
+                <PlistImageFile Name="dialog_building_panel_title.png" Key="dialog_building_panel_title.png" />
+                <PlistImageFile Name="dialog_building_title_bg.png" Key="dialog_building_title_bg.png" />
+              </PlistImageFolder>
+            </Folder>
+            <Folder Name="ui">
+              <PlistImageFolder Image="city.png" PListFile="city.plist" Name=".city_PList.Dir">
+                <PlistImageFile Name="bg_bottom.png" Key="bg_bottom.png" />
+                <PlistImageFile Name="bg_building_queue.png" Key="bg_building_queue.png" />
+                <PlistImageFile Name="bg_player_health.png" Key="bg_player_health.png" />
+                <PlistImageFile Name="bg_player_mana.png" Key="bg_player_mana.png" />
+                <PlistImageFile Name="bg_player_portrait.png" Key="bg_player_portrait.png" />
+                <PlistImageFile Name="bg_player_vip.png" Key="bg_player_vip.png" />
+                <PlistImageFile Name="bg_player_vip_disabled.png" Key="bg_player_vip_disabled.png" />
+                <PlistImageFile Name="bg_top.png" Key="bg_top.png" />
+                <PlistImageFile Name="icon_gold_hammer.png" Key="icon_gold_hammer.png" />
+                <PlistImageFile Name="icon_iron_hammer.png" Key="icon_iron_hammer.png" />
+              </PlistImageFolder>
+            </Folder>
+            <Folder Name="unit">
+              <PlistImageFolder Image="function.png" PListFile="function.plist" Name=".function_PList.Dir">
+                <PlistImageFile Name="btn_activity.png" Key="btn_activity.png" />
+                <PlistImageFile Name="btn_alliance.png" Key="btn_alliance.png" />
+                <PlistImageFile Name="btn_appoint.png" Key="btn_appoint.png" />
+                <PlistImageFile Name="btn_back.png" Key="btn_back.png" />
+                <PlistImageFile Name="btn_daily_sign.png" Key="btn_daily_sign.png" />
+                <PlistImageFile Name="btn_favorite.png" Key="btn_favorite.png" />
+                <PlistImageFile Name="btn_gold_shop.png" Key="btn_gold_shop.png" />
+                <PlistImageFile Name="btn_help.png" Key="btn_help.png" />
+                <PlistImageFile Name="btn_inventory.png" Key="btn_inventory.png" />
+                <PlistImageFile Name="btn_log.png" Key="btn_log.png" />
+                <PlistImageFile Name="btn_mail.png" Key="btn_mail.png" />
+                <PlistImageFile Name="btn_minimap.png" Key="btn_minimap.png" />
+                <PlistImageFile Name="btn_quest.png" Key="btn_quest.png" />
+                <PlistImageFile Name="btn_skill.png" Key="btn_skill.png" />
+                <PlistImageFile Name="btn_world.png" Key="btn_world.png" />
+              </PlistImageFolder>
+              <PlistImageFolder Image="hero.png" PListFile="hero.plist" Name=".hero_PList.Dir">
+                <PlistImageFile Name="hero_portrait_046.png" Key="hero_portrait_046.png" />
+              </PlistImageFolder>
+            </Folder>
+            <Folder Name="view">
+              <Folder Name="city">
+                <PlistImageFolder Image="background_1.png" PListFile="background_1.plist" Name=".background_1_PList.Dir">
+                  <PlistImageFile Name="map_01.png" Key="map_01.png" />
+                  <PlistImageFile Name="map_02.png" Key="map_02.png" />
+                  <PlistImageFile Name="map_03.png" Key="map_03.png" />
+                  <PlistImageFile Name="map_04.png" Key="map_04.png" />
+                </PlistImageFolder>
+                <PlistImageFolder Image="background_2.png" PListFile="background_2.plist" Name=".background_2_PList.Dir">
+                  <PlistImageFile Name="map_05.png" Key="map_05.png" />
+                  <PlistImageFile Name="map_06.png" Key="map_06.png" />
+                  <PlistImageFile Name="map_07.png" Key="map_07.png" />
+                  <PlistImageFile Name="map_08.png" Key="map_08.png" />
+                </PlistImageFolder>
+              </Folder>
+            </Folder>
+            <Image Name="city_preview.jpg" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

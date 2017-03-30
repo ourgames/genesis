@@ -1,0 +1,30 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "cocostudio"],
+
+    "jsList" : [
+        "resource.js",
+        "base/debug.js",
+        "base/underscore.js",
+        "base/locale.js",
+        "base/math.js",
+        "base/util.js",
+        "ui/base/base_scene.js",
+        "ui/base/base_tree_node.js",
+        "ui/base/base_csd_util.js",
+        "ui/base/base_csd_layer.js",
+        "ui/base/base_dialog.js",
+        "ui/util/ui_tree_helper.js",
+        "ui/util/layer_debug.js",
+        "ui/util/viewport_helper.js"
+    ]
+}

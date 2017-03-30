@@ -1,0 +1,28 @@
+{
+  "ID": "9db73b1d-cba5-4417-8075-0f77a117dda2",
+  "Version": "3.10.0.0",
+  "Name": "layer_view_city_upper",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 106,
+        "Size": {
+          "X": 3570.0,
+          "Y": 2040.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

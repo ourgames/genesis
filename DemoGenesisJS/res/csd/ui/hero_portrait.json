@@ -1,0 +1,307 @@
+{
+  "ID": "d7229e59-3c5f-41d5-9b4a-bd76961ba38d",
+  "Version": "3.10.0.0",
+  "Name": "hero_portrait",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 39,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bg_player_portrait.png",
+              "Plist": "res/pic/ui/city.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -45.0,
+            "RightMargin": -45.0,
+            "TopMargin": -58.0,
+            "BottomMargin": -58.0,
+            "Tag": 40,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bg_player_health.png",
+                  "Plist": "res/pic/ui/city.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.8878,
+                  "Y": 27.5134
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4988,
+                  "Y": 0.2372
+                },
+                "PreSize": {
+                  "X": 0.8667,
+                  "Y": 0.0948
+                },
+                "LeftMargin": 5.8878,
+                "RightMargin": 6.1122,
+                "TopMargin": 82.9866,
+                "BottomMargin": 22.0134,
+                "Tag": 41,
+                "ActionTag": -654024421,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 11.0
+                },
+                "Name": "bg_player_health",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bg_player_mana.png",
+                  "Plist": "res/pic/ui/city.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.8878,
+                  "Y": 12.6413
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4988,
+                  "Y": 0.109
+                },
+                "PreSize": {
+                  "X": 0.8667,
+                  "Y": 0.0948
+                },
+                "LeftMargin": 5.8878,
+                "RightMargin": 6.1122,
+                "TopMargin": 97.8587,
+                "BottomMargin": 7.1413,
+                "Tag": 42,
+                "ActionTag": -811026739,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 11.0
+                },
+                "Name": "bg_player_mana",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bg_player_vip_disabled.png",
+                  "Plist": "res/pic/ui/city.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 130.3419,
+                  "Y": 32.0511
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.4482,
+                  "Y": 0.2763
+                },
+                "PreSize": {
+                  "X": 0.9333,
+                  "Y": 0.4224
+                },
+                "LeftMargin": 88.3419,
+                "RightMargin": -82.3419,
+                "TopMargin": 59.4489,
+                "BottomMargin": 7.5511,
+                "Tag": 43,
+                "ActionTag": 1922153704,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 49.0
+                },
+                "Name": "bg_player_vip_disabled",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bg_player_vip.png",
+                  "Plist": "res/pic/ui/city.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 130.342,
+                  "Y": 32.0511
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.4482,
+                  "Y": 0.2763
+                },
+                "PreSize": {
+                  "X": 0.9333,
+                  "Y": 0.4224
+                },
+                "LeftMargin": 88.342,
+                "RightMargin": -82.342,
+                "TopMargin": 59.4489,
+                "BottomMargin": 7.5511,
+                "Tag": 44,
+                "ActionTag": -132586532,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 49.0
+                },
+                "Name": "bg_player_vip",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hero_portrait_046.png",
+                  "Plist": "res/pic/unit/hero.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.7629,
+                  "Y": 73.5185
+                },
+                "Scale": {
+                  "ScaleX": 0.55,
+                  "ScaleY": 0.55
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4974,
+                  "Y": 0.6338
+                },
+                "PreSize": {
+                  "X": 1.5111,
+                  "Y": 1.1724
+                },
+                "LeftMargin": -23.2371,
+                "RightMargin": -22.7629,
+                "TopMargin": -25.5185,
+                "BottomMargin": 5.5185,
+                "Tag": 45,
+                "ActionTag": -486503079,
+                "Size": {
+                  "X": 136.0,
+                  "Y": 136.0
+                },
+                "Name": "hero_portrait",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1471632885,
+            "Size": {
+              "X": 90.0,
+              "Y": 116.0
+            },
+            "Name": "bg_player_portrait",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../pic/ui/city.plist",
+        "../../pic/ui/city.png",
+        "../../pic/unit/hero.plist",
+        "../../pic/unit/hero.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

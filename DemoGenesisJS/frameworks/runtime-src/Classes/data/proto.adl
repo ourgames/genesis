@@ -1,0 +1,25 @@
+
+namespace = hlgenesis;
+
+msg_header
+{
+    uint32 len;
+    uint32 type;
+    uint32 id;
+}
+
+c2s_test_data
+{
+    uint32 color;
+    string name;
+    string temp;
+    string weight;
+    string halo;
+    string trail;
+}
+
+s2c_test_data
+{
+	uint32 code;
+	string message
+}

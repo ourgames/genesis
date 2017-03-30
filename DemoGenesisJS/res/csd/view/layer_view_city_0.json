@@ -1,0 +1,1559 @@
+{
+  "ID": "764cca4d-daab-4364-824d-4d1d44b6b11c",
+  "Version": "3.10.0.0",
+  "Name": "layer_view_city_0",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 3570.0,
+            "TopMargin": 2040.0,
+            "Tag": 48,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "map_08.png",
+                  "Plist": "res/pic/city_view_background2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 3057.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 3057.0,
+                "RightMargin": -3567.0,
+                "TopMargin": -1020.0,
+                "Tag": 11,
+                "ActionTag": 2112397500,
+                "Size": {
+                  "X": 510.0,
+                  "Y": 1020.0
+                },
+                "Name": "map_08_8",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "map_07.png",
+                  "Plist": "res/pic/city_view_background2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 3057.0,
+                  "Y": 1019.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 3057.0,
+                "RightMargin": -3567.0,
+                "TopMargin": -2039.0,
+                "BottomMargin": 1019.0,
+                "Tag": 10,
+                "ActionTag": -690552259,
+                "Size": {
+                  "X": 510.0,
+                  "Y": 1020.0
+                },
+                "Name": "map_07_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "map_06.png",
+                  "Plist": "res/pic/city_view_background2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 2038.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2038.0,
+                "RightMargin": -3058.0,
+                "TopMargin": -1020.0,
+                "Tag": 9,
+                "ActionTag": 1837513479,
+                "Size": {
+                  "X": 1020.0,
+                  "Y": 1020.0
+                },
+                "Name": "map_06_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "map_05.png",
+                  "Plist": "res/pic/city_view_background2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 2038.0,
+                  "Y": 1019.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2038.0,
+                "RightMargin": -3058.0,
+                "TopMargin": -2039.0,
+                "BottomMargin": 1019.0,
+                "Tag": 8,
+                "ActionTag": 2098602894,
+                "Size": {
+                  "X": 1020.0,
+                  "Y": 1020.0
+                },
+                "Name": "map_05_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "map_04.png",
+                  "Plist": "res/pic/city_view_background1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1019.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1019.0,
+                "RightMargin": -2039.0,
+                "TopMargin": -1020.0,
+                "Tag": 7,
+                "ActionTag": 187311214,
+                "Size": {
+                  "X": 1020.0,
+                  "Y": 1020.0
+                },
+                "Name": "map_04_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "map_03.png",
+                  "Plist": "res/pic/city_view_background1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1019.0,
+                  "Y": 1019.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1019.0,
+                "RightMargin": -2039.0,
+                "TopMargin": -2039.0,
+                "BottomMargin": 1019.0,
+                "Tag": 6,
+                "ActionTag": -156376786,
+                "Size": {
+                  "X": 1020.0,
+                  "Y": 1020.0
+                },
+                "Name": "map_03_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "map_02.png",
+                  "Plist": "res/pic/city_view_background1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": -1020.0,
+                "TopMargin": -1020.0,
+                "Tag": 5,
+                "ActionTag": 149164285,
+                "Size": {
+                  "X": 1020.0,
+                  "Y": 1020.0
+                },
+                "Name": "map_02_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "map_01.png",
+                  "Plist": "res/pic/city_view_background1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 1019.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": -1020.0,
+                "TopMargin": -2039.0,
+                "BottomMargin": 1019.0,
+                "Tag": 4,
+                "ActionTag": 352411966,
+                "Size": {
+                  "X": 1020.0,
+                  "Y": 1020.0
+                },
+                "Name": "map_01_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1351853856,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nodeBackground",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.0005,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -0.0005,
+            "RightMargin": 3570.0005,
+            "TopMargin": 2040.0,
+            "Tag": 49,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_city_hall.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 666.6182,
+                  "Y": 1458.8027
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 274.1182,
+                "RightMargin": -1059.1182,
+                "TopMargin": -1689.3027,
+                "BottomMargin": 1228.3027,
+                "Tag": 53,
+                "ActionTag": -1754633555,
+                "Size": {
+                  "X": 785.0,
+                  "Y": 461.0
+                },
+                "Name": "building_city_hall",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_army_soldier.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 255.1888,
+                  "Y": 1240.4515
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 74.6888,
+                "RightMargin": -435.6888,
+                "TopMargin": -1376.4515,
+                "BottomMargin": 1104.4515,
+                "Tag": 55,
+                "ActionTag": 1070489988,
+                "Size": {
+                  "X": 361.0,
+                  "Y": 272.0
+                },
+                "Name": "building_army_soldier",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_army_archer.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 562.2109,
+                  "Y": 1004.23
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 365.2109,
+                "RightMargin": -759.2109,
+                "TopMargin": -1130.73,
+                "BottomMargin": 877.73,
+                "Tag": 58,
+                "ActionTag": -1175660771,
+                "Size": {
+                  "X": 394.0,
+                  "Y": 253.0
+                },
+                "Name": "building_army_archer",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_army_knight.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 898.7527,
+                  "Y": 828.2892
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 724.2527,
+                "RightMargin": -1073.2527,
+                "TopMargin": -964.7892,
+                "BottomMargin": 691.7892,
+                "Tag": 57,
+                "ActionTag": 2004095349,
+                "Size": {
+                  "X": 349.0,
+                  "Y": 273.0
+                },
+                "Name": "building_army_knight",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_army_vehicle.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1339.0437,
+                  "Y": 766.9327
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1122.5437,
+                "RightMargin": -1555.5437,
+                "TopMargin": -903.9327,
+                "BottomMargin": 629.9327,
+                "Tag": 56,
+                "ActionTag": 2091828457,
+                "Size": {
+                  "X": 433.0,
+                  "Y": 274.0
+                },
+                "Name": "building_army_vehicle",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_embassy.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1403.98,
+                  "Y": 1279.9954
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1197.48,
+                "RightMargin": -1610.48,
+                "TopMargin": -1409.9954,
+                "BottomMargin": 1149.9954,
+                "Tag": 137,
+                "ActionTag": -1286495674,
+                "Size": {
+                  "X": 413.0,
+                  "Y": 260.0
+                },
+                "Name": "building_embassy",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_college.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1767.4287,
+                  "Y": 1516.9336
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1561.4287,
+                "RightMargin": -1973.4287,
+                "TopMargin": -1630.4336,
+                "BottomMargin": 1403.4336,
+                "Tag": 138,
+                "ActionTag": -1838022573,
+                "Size": {
+                  "X": 412.0,
+                  "Y": 227.0
+                },
+                "Name": "building_college",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_market.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2171.9951,
+                  "Y": 1206.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.18
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1818.4951,
+                "RightMargin": -2525.4951,
+                "TopMargin": -1416.9995,
+                "BottomMargin": 996.9995,
+                "Tag": 140,
+                "ActionTag": -850001438,
+                "Size": {
+                  "X": 707.0,
+                  "Y": 420.0
+                },
+                "Name": "building_market",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_warehouse.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1219.9912,
+                  "Y": 1851.4575
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1013.9912,
+                "RightMargin": -1425.9912,
+                "TopMargin": -1997.9575,
+                "BottomMargin": 1704.9575,
+                "Tag": 141,
+                "ActionTag": 873419288,
+                "Size": {
+                  "X": 412.0,
+                  "Y": 293.0
+                },
+                "Name": "building_warehouse",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_food.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2070.145,
+                  "Y": 210.5532
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1975.645,
+                "RightMargin": -2164.645,
+                "TopMargin": -284.5532,
+                "BottomMargin": 136.5532,
+                "Tag": 63,
+                "ActionTag": -1707557999,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 148.0
+                },
+                "Name": "building_resource_block_01",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_food.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2214.3821,
+                  "Y": 311.0457
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2119.8821,
+                "RightMargin": -2308.8821,
+                "TopMargin": -385.0457,
+                "BottomMargin": 237.0457,
+                "Tag": 62,
+                "ActionTag": 2037550350,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 148.0
+                },
+                "Name": "building_resource_block_02",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_food.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1864.4287,
+                  "Y": 269.666
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1769.9287,
+                "RightMargin": -1958.9287,
+                "TopMargin": -343.666,
+                "BottomMargin": 195.666,
+                "Tag": 61,
+                "ActionTag": -679974738,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 148.0
+                },
+                "Name": "building_resource_block_03",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_food.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2023.4414,
+                  "Y": 383.0453
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1928.9414,
+                "RightMargin": -2117.9414,
+                "TopMargin": -457.0453,
+                "BottomMargin": 309.0453,
+                "Tag": 60,
+                "ActionTag": 365742146,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 148.0
+                },
+                "Name": "building_resource_block_04",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_iron.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2634.6724,
+                  "Y": 604.8372
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2540.6724,
+                "RightMargin": -2728.6724,
+                "TopMargin": -663.8372,
+                "BottomMargin": 545.8372,
+                "Tag": 71,
+                "ActionTag": 1079816595,
+                "Size": {
+                  "X": 188.0,
+                  "Y": 118.0
+                },
+                "Name": "building_resource_block_05",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_iron.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2857.5278,
+                  "Y": 594.1973
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2763.5278,
+                "RightMargin": -2951.5278,
+                "TopMargin": -653.1973,
+                "BottomMargin": 535.1973,
+                "Tag": 70,
+                "ActionTag": 717711544,
+                "Size": {
+                  "X": 188.0,
+                  "Y": 118.0
+                },
+                "Name": "building_resource_block_06",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_iron.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2747.5723,
+                  "Y": 720.6987
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2653.5723,
+                "RightMargin": -2841.5723,
+                "TopMargin": -779.6987,
+                "BottomMargin": 661.6987,
+                "Tag": 69,
+                "ActionTag": -1677056259,
+                "Size": {
+                  "X": 188.0,
+                  "Y": 118.0
+                },
+                "Name": "building_resource_block_07",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_stone.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2937.9075,
+                  "Y": 705.3255
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2843.9075,
+                "RightMargin": -3031.9075,
+                "TopMargin": -761.8255,
+                "BottomMargin": 648.8255,
+                "Tag": 68,
+                "ActionTag": -1805712916,
+                "Size": {
+                  "X": 188.0,
+                  "Y": 113.0
+                },
+                "Name": "building_resource_block_08",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_stone.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 3115.8503,
+                  "Y": 665.7234
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 3021.8503,
+                "RightMargin": -3209.8503,
+                "TopMargin": -722.2234,
+                "BottomMargin": 609.2234,
+                "Tag": 67,
+                "ActionTag": 16267508,
+                "Size": {
+                  "X": 188.0,
+                  "Y": 113.0
+                },
+                "Name": "building_resource_block_09",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_wood.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2882.9463,
+                  "Y": 199.3205
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2773.4463,
+                "RightMargin": -2992.4463,
+                "TopMargin": -264.8205,
+                "BottomMargin": 133.8205,
+                "Tag": 66,
+                "ActionTag": 539606499,
+                "Size": {
+                  "X": 219.0,
+                  "Y": 131.0
+                },
+                "Name": "building_resource_block_10",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_wood.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2622.8406,
+                  "Y": 200.5024
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2513.3406,
+                "RightMargin": -2732.3406,
+                "TopMargin": -266.0024,
+                "BottomMargin": 135.0024,
+                "Tag": 65,
+                "ActionTag": -618695113,
+                "Size": {
+                  "X": 219.0,
+                  "Y": 131.0
+                },
+                "Name": "building_resource_block_11",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_wood.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2415.3589,
+                  "Y": 163.8522
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2305.8589,
+                "RightMargin": -2524.8589,
+                "TopMargin": -229.3522,
+                "BottomMargin": 98.3522,
+                "Tag": 64,
+                "ActionTag": -930137554,
+                "Size": {
+                  "X": 219.0,
+                  "Y": 131.0
+                },
+                "Name": "building_resource_block_12",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_wood.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2676.0449,
+                  "Y": 308.1565
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2566.5449,
+                "RightMargin": -2785.5449,
+                "TopMargin": -373.6565,
+                "BottomMargin": 242.6565,
+                "Tag": 71,
+                "ActionTag": 182398117,
+                "Size": {
+                  "X": 219.0,
+                  "Y": 131.0
+                },
+                "Name": "building_resource_block_13",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_food.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2787.8835,
+                  "Y": 481.515
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2693.3835,
+                "RightMargin": -2882.3835,
+                "TopMargin": -555.515,
+                "BottomMargin": 407.515,
+                "Tag": 70,
+                "ActionTag": -876612237,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 148.0
+                },
+                "Name": "building_resource_block_14",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_food.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2443.0356,
+                  "Y": 372.4667
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2348.5356,
+                "RightMargin": -2537.5356,
+                "TopMargin": -446.4667,
+                "BottomMargin": 298.4667,
+                "Tag": 69,
+                "ActionTag": 2049538180,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 148.0
+                },
+                "Name": "building_resource_block_15",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "building_resource_food.png",
+                  "Plist": "res/pic/city_view_building.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2264.0862,
+                  "Y": 435.8458
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2169.5862,
+                "RightMargin": -2358.5862,
+                "TopMargin": -509.8458,
+                "BottomMargin": 361.8458,
+                "Tag": 68,
+                "ActionTag": -1799612136,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 148.0
+                },
+                "Name": "building_resource_block_16",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 897800988,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nodeBuilding",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 3570.0,
+          "Y": 2040.0
+        },
+        "Name": "layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../pic/city_view_background1.plist",
+        "../../pic/city_view_background1.png",
+        "../../pic/city_view_background2.plist",
+        "../../pic/city_view_background2.png",
+        "../../pic/city_view_building.plist",
+        "../../pic/city_view_building.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

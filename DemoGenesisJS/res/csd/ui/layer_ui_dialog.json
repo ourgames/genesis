@@ -1,0 +1,517 @@
+{
+  "ID": "a3f4f9fa-e44e-46f1-8c9a-162ae514cbff",
+  "Version": "3.10.0.0",
+  "Name": "layer_ui_dialog",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 13,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bg_top.png",
+              "Plist": "res/pic/ui/city.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 376.4998,
+              "Y": 1290.4985
+            },
+            "Scale": {
+              "ScaleX": 1.17,
+              "ScaleY": 1.17
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.502,
+              "Y": 0.9674
+            },
+            "PreSize": {
+              "X": 0.8533,
+              "Y": 0.0547
+            },
+            "LeftMargin": 56.4998,
+            "RightMargin": 53.5002,
+            "TopMargin": 7.0015,
+            "BottomMargin": 1253.9985,
+            "Tag": 29,
+            "Children": [
+              {
+                "FontSize": 14,
+                "LabelText": "200",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 495.1154,
+                  "Y": 46.4478
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7736,
+                  "Y": 0.6363
+                },
+                "PreSize": {
+                  "X": 0.0375,
+                  "Y": 0.274
+                },
+                "LeftMargin": 483.1154,
+                "RightMargin": 132.8846,
+                "TopMargin": 16.5522,
+                "BottomMargin": 36.4478,
+                "Tag": 44,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_resource_stone.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -20.4259,
+                      "Y": 10.3312
+                    },
+                    "Scale": {
+                      "ScaleX": 0.45,
+                      "ScaleY": 0.45
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.8511,
+                      "Y": 0.5166
+                    },
+                    "PreSize": {
+                      "X": 2.0833,
+                      "Y": 2.5
+                    },
+                    "LeftMargin": -45.4259,
+                    "RightMargin": 19.4259,
+                    "TopMargin": -15.3312,
+                    "BottomMargin": -14.6688,
+                    "Tag": 40,
+                    "ActionTag": 673962209,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 50.0
+                    },
+                    "Name": "icon_resource_stone",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -878136857,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 20.0
+                },
+                "Name": "label_resource_stone",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "4800",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.9543,
+                  "Y": 46.4482
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5984,
+                  "Y": 0.6363
+                },
+                "PreSize": {
+                  "X": 0.05,
+                  "Y": 0.274
+                },
+                "LeftMargin": 366.9543,
+                "RightMargin": 241.0457,
+                "TopMargin": 16.5518,
+                "BottomMargin": 36.4482,
+                "Tag": 43,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_resource_iron.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -20.4274,
+                      "Y": 10.3317
+                    },
+                    "Scale": {
+                      "ScaleX": 0.92,
+                      "ScaleY": 0.92
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.6384,
+                      "Y": 0.5166
+                    },
+                    "PreSize": {
+                      "X": 1.3438,
+                      "Y": 1.95
+                    },
+                    "LeftMargin": -41.9274,
+                    "RightMargin": 30.9274,
+                    "TopMargin": -9.8317,
+                    "BottomMargin": -9.1683,
+                    "Tag": 35,
+                    "ActionTag": -316515519,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 39.0
+                    },
+                    "Name": "icon_resource_iron",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -754559505,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 20.0
+                },
+                "Name": "label_resource_iron",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "23.0K",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 268.2844,
+                  "Y": 46.4482
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4192,
+                  "Y": 0.6363
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.274
+                },
+                "LeftMargin": 249.7844,
+                "RightMargin": 353.2156,
+                "TopMargin": 16.5518,
+                "BottomMargin": 36.4482,
+                "Tag": 42,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_resource_wood.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -20.4285,
+                      "Y": 10.3317
+                    },
+                    "Scale": {
+                      "ScaleX": 0.92,
+                      "ScaleY": 0.92
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.5521,
+                      "Y": 0.5166
+                    },
+                    "PreSize": {
+                      "X": 1.1622,
+                      "Y": 1.95
+                    },
+                    "LeftMargin": -41.9285,
+                    "RightMargin": 35.9285,
+                    "TopMargin": -9.8317,
+                    "BottomMargin": -9.1683,
+                    "Tag": 38,
+                    "ActionTag": 1383800067,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 39.0
+                    },
+                    "Name": "icon_resource_wood",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1506005634,
+                "Size": {
+                  "X": 37.0,
+                  "Y": 20.0
+                },
+                "Name": "label_resource_wood",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "19.7K",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 142.1975,
+                  "Y": 46.4482
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2222,
+                  "Y": 0.6363
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.274
+                },
+                "LeftMargin": 123.6975,
+                "RightMargin": 479.3025,
+                "TopMargin": 16.5518,
+                "BottomMargin": 36.4482,
+                "Tag": 41,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "icon_resource_food.png",
+                      "Plist": "res/pic/common/icon.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -20.426,
+                      "Y": 10.3323
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.5521,
+                      "Y": 0.5166
+                    },
+                    "PreSize": {
+                      "X": 1.1622,
+                      "Y": 1.95
+                    },
+                    "LeftMargin": -41.926,
+                    "RightMargin": 35.926,
+                    "TopMargin": -9.8323,
+                    "BottomMargin": -9.1677,
+                    "Tag": 34,
+                    "ActionTag": 1922414770,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 39.0
+                    },
+                    "Name": "icon_resource_food",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1343955764,
+                "Size": {
+                  "X": 37.0,
+                  "Y": 20.0
+                },
+                "Name": "label_resource_food",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_back.png",
+                  "Plist": "res/pic/unit/function.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 34.1792,
+                  "Y": 46.4659
+                },
+                "Scale": {
+                  "ScaleX": 0.75,
+                  "ScaleY": 0.75
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0534,
+                  "Y": 0.6365
+                },
+                "PreSize": {
+                  "X": 0.1375,
+                  "Y": 1.2055
+                },
+                "LeftMargin": -9.8208,
+                "RightMargin": 561.8208,
+                "TopMargin": -17.4659,
+                "BottomMargin": 2.4659,
+                "Tag": 198,
+                "ActionTag": -1131392734,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 88.0
+                },
+                "Name": "btn_back",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -263362403,
+            "Size": {
+              "X": 640.0,
+              "Y": 73.0
+            },
+            "Name": "bg_top",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../pic/common/icon.plist",
+        "../../pic/common/icon.png",
+        "../../pic/ui/city.plist",
+        "../../pic/ui/city.png",
+        "../../pic/unit/function.plist",
+        "../../pic/unit/function.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

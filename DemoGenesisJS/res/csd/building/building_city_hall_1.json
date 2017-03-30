@@ -1,0 +1,142 @@
+{
+  "ID": "8583b234-fbb3-4b56-a3cd-d7784ebf8e07",
+  "Version": "3.10.0.0",
+  "Name": "building_city_hall_1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 231,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "building_city_hall.png",
+              "Plist": "res/pic/building/looking.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -52.8688,
+              "Y": 70.0701
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -445.3688,
+            "RightMargin": -339.6312,
+            "TopMargin": -300.5701,
+            "BottomMargin": -160.4299,
+            "Tag": 232,
+            "ActionTag": -2050466883,
+            "Size": {
+              "X": 785.0,
+              "Y": 461.0
+            },
+            "Name": "node_sprite",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 213.303,
+              "Y": 47.4326
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 213.303,
+            "RightMargin": -213.303,
+            "TopMargin": -47.4326,
+            "BottomMargin": 47.4326,
+            "Tag": 233,
+            "ActionTag": 1620660752,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_level",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 36.2115
+            },
+            "Scale": {
+              "ScaleX": 9.9574,
+              "ScaleY": 4.77
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": -36.2115,
+            "BottomMargin": 36.2115,
+            "Tag": 453,
+            "ActionTag": 863877236,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_touch",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../pic/building/looking.plist",
+        "../../pic/building/looking.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}
